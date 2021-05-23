@@ -18,7 +18,7 @@ spring:
         driver-class-name: com.mysql.jdbc.Driver
         password: '1234'
         platform: mysql
-        url: jdbc:mysql://localhost/delivery-academy?verifyServerCertificate=false&useSSL=false&requireSSL=false
+        url: jdbc:mysql://localhost/delivery_academy?verifyServerCertificate=false&useSSL=false&requireSSL=false
         username: root
     jpa:
         database-platform: org.hibernate.dialect.MySQLDialect
